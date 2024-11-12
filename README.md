@@ -1,6 +1,6 @@
 # Single-cell RNA analysis of Visceral Senosory Ganglion Organoids (VSGO)
 
-![resize_VSGO_umap](https://github.com/user-attachments/assets/f4d8189b-8919-4184-ada0-8b617498b108)
+![vsnumap](https://github.com/user-attachments/assets/bc95b38e-14d2-4e6f-a120-8003bfcc49d2)
 
 Single-cell RNA and single-nuclei RNA analysis of Visceral Sensory Ganglion Organoids
 
