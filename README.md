@@ -7,7 +7,7 @@ The Single-cell RNA and single-nuclei RNA analysis of Visceral Sensory Ganglion 
 Transcriptome data is available in the Gene Expression Omnibus (GEO) 
 under the accession numbers GSE264303 and GSE271257.
 
-Using h5 files with ambient RNA removed is highly recommended.
+*Using h5 files with ambient RNA removed is highly recommended.
 
 Citation : 
 Ahn, K., Park, HS., Choi, S. et al. Differentiating visceral sensory ganglion organoids from induced pluripotent stem cells. 
